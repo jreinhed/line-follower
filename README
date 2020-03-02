@@ -1,0 +1,5 @@
+This is a school project I did with a friend, for our course on real-time
+systems. It's a car that follows lines, using two infrared sensors, a
+Nucleo board, and FreeRTOS.
+
+Here's a demonstration of the car: https://youtu.be/IJhurDwWx54
